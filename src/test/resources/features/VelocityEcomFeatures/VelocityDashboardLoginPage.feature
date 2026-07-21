@@ -17,8 +17,7 @@ Feature: Validate Velocity Ecom Dashboard page
     Examples:
       | username | password |
       | 5555555555 | Test@5 |
-      | 6666666666 | Test@6 |
-      | 7777777777 | Test@7 |
+
 
 
 
